@@ -1,0 +1,4 @@
+include ':helpers'
+include ':utils'
+include ':app'
+rootProject.name = "Collection"
